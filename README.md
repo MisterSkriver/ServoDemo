@@ -15,5 +15,4 @@ Micro Servo Setup & Demo
 It is important that the wires are connected correctly. The servo has 3 wires in different colours: brown, orange and red. The red wire is to be connected to the power output, the brown to ground, and the red one to whichever port you’re using.
 
 ## Code
-Open & upload the ServoDemo.ino sketch and watch the magic happen 
-
+Open & upload the ServoDemo.ino sketch and watch the magic happen ;)
