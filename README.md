@@ -5,9 +5,7 @@ Micro Servo Setup & Demo
 
 ## Requirements:
 
-3 x Wires
-1 x Arduino Unit
-1 x Micro Servo SG90
+3 x Wires, 1 x Arduino Unit, 1 x Micro Servo SG90
 
 ## Setup: 
 ![alt text](https://github.com/MisterSkriver/ServoDemo/blob/master/Setup.JPG)
